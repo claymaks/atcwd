@@ -6,7 +6,10 @@
 </p>
 
 > AppleScript applet made for Finder to open a terminal window in your current working directory (cwd).
-![](/demo.gif)
+
+<p align="center">
+  <img src="demo.gif" />
+</p>
 
 ## Install
 
