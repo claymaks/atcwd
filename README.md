@@ -29,11 +29,11 @@ command-drag `atcwd.app` to Finder toolbar
 
 * Website: https://cmaks.dev
 * Github: [@claymaks](https://github.com/claymaks)
-* LinkedIn: [@claymaks](https://linkedin.com/in/claymaks)
+* LinkedIn: [@cmaks](https://linkedin.com/in/cmaks)
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/claymaks/tocwd/issues). 
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/claymaks/tocwd/issues).
 
 ## Show your support
 
