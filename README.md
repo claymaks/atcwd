@@ -1,6 +1,6 @@
-<h1 align="center">tocwd</h1>
+<h1 align="center">atcwd</h1>
 <p>
-  <a href="https://github.com/claymaks/tocwd/blob/main/LICENSE" target="_blank">
+  <a href="https://github.com/claymaks/atcwd/blob/main/LICENSE" target="_blank">
     <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
   </a>
 </p>
@@ -14,7 +14,7 @@
 ## Install
 
 ```sh
-git clone git@github.com:claymaks/tocwd.git
+git clone git@github.com:claymaks/atcwd.git
 ```
 
 ## Usage
@@ -33,7 +33,7 @@ command-drag `atcwd.app` to Finder toolbar
 
 ## 🤝 Contributing
 
-Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/claymaks/tocwd/issues).
+Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/claymaks/atcwd/issues).
 
 ## Show your support
 
@@ -42,7 +42,7 @@ Give a ⭐️ if this project helped you!
 ## 📝 License
 
 Copyright © 2021 [Clay Maksymiuk](https://github.com/claymaks).<br />
-This project is [MIT](https://github.com/claymaks/tocwd/blob/main/LICENSE) licensed.
+This project is [MIT](https://github.com/claymaks/atcwd/blob/main/LICENSE) licensed.
 
 ***
 _This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
